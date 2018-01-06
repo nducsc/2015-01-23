@@ -5,8 +5,18 @@
     "description": "hey"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "kavin"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "tests",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "kos"
   }
 }
